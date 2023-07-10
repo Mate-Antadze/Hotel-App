@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/https//Mate-Antadze.github.io/Hotel-App/static/css/main.ede6cc3a.css",
+    "main.js": "/https//Mate-Antadze.github.io/Hotel-App/static/js/main.7e8dad57.js",
+    "static/js/787.5ef7a38d.chunk.js": "/https//Mate-Antadze.github.io/Hotel-App/static/js/787.5ef7a38d.chunk.js",
+    "static/media/logo.svg": "/https//Mate-Antadze.github.io/Hotel-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/https//Mate-Antadze.github.io/Hotel-App/index.html",
+    "main.ede6cc3a.css.map": "/https//Mate-Antadze.github.io/Hotel-App/static/css/main.ede6cc3a.css.map",
+    "main.7e8dad57.js.map": "/https//Mate-Antadze.github.io/Hotel-App/static/js/main.7e8dad57.js.map",
+    "787.5ef7a38d.chunk.js.map": "/https//Mate-Antadze.github.io/Hotel-App/static/js/787.5ef7a38d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ede6cc3a.css",
+    "static/js/main.7e8dad57.js"
+  ]
+}
