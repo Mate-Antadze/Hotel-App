@@ -1,0 +1,28 @@
+
+
+.n-wrapper{
+    background: var(--black);
+    color: white;
+    overflow-x: hidden;
+    margin: 0rem 2.5rem;
+}
+
+.n-container{
+    justify-content: space-between;
+    padding: 1rem 0;
+    color: var(--secondary);
+}
+
+.a-menu{
+    gap: 2rem;
+}
+
+.hamburger {
+    display: none;
+  }
+  
+  @media (max-width: 769px) {
+    .hamburger {
+      display: block;
+    }
+  }

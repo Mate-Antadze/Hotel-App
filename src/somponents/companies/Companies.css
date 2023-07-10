@@ -1,0 +1,26 @@
+.c-wrapper{
+    justify-content: space-around;
+    background-color: rgb(208, 146, 32);
+}
+
+.c-container img{
+    width: 9rem;
+    margin: 0 4rem;
+}
+
+@media (max-width: 1111px){
+    .c-container img{
+        margin: 0px;
+    }
+}
+
+@media (max-width: 604px){
+    .c-container{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    .c-wrapper img{
+        margin: 0px auto;
+    }
+}
